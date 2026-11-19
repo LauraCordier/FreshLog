@@ -1,0 +1,6 @@
+{
+  "name": "FreshLog — FreshBerrys Caixa M Redesign 3D",
+  "description": "Estúdio interativo de redesign industrial da caixa térmica portátil FreshBerrys Caixa M (60×50×35 cm) da FreshLog, com modelo 3D articulado, simulação térmica, auditoria de melhorias e calculadora de ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
